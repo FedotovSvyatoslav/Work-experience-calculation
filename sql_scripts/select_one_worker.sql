@@ -1,1 +1,0 @@
-SELECT Name, entered FROM workers WHERE id = ?

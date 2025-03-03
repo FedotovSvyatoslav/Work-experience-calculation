@@ -1,1 +1,0 @@
-DELETE FROM workers WHERE id = ?

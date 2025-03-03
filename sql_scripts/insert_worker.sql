@@ -1,1 +1,0 @@
-INSERT INTO workers(id, Name, entered) VALUES(?, ?, ?)
